@@ -3,8 +3,8 @@
 The repository contains the followin elements:
 
 - This README file containing the concrete DSL syntax and examples. 
-- a .g4 grammar file containing the grammar of the DSL
-- a pdf file with supplementary material for the paper, including an detailed explaination of the design and implementation. 
+- A .g4 grammar file containing the grammar of the DSL
+- A .pdf file with supplementary material for the paper, including an detailed explaination of the design and implementation. 
 ---
 
 ## 📘 Overview
