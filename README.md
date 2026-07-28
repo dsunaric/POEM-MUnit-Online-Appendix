@@ -1,4 +1,4 @@
-# 🧪 Test-Driven Modeling for MERODE
+# Supplementary Material: Test-Driven Modeling for MERODE
 ### Automated Model Testing DSL & Simulation Engine
 
 ---
