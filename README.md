@@ -25,6 +25,14 @@ The goal is to support both **model quality assurance** and **learning outcomes*
 
 ---
 
+## 🎥 Tool Demonstration
+
+Click the link below to watch a short demonstration of the tool.
+[Demo Video](https://youtu.be/zIIWrEdE9Rw)
+
+
+---
+
 ## 🎯 Motivation
 
 MERODE currently supports **manual testing** through:
