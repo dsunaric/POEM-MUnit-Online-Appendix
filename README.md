@@ -8,7 +8,6 @@ The repository contains the following elements:
 ---
 
 ## 📘 Overview
-[View Tool Demo](https://youtu.be/zIIWrEdE9Rw)
 
 This project introduces **Test-Driven Modeling (TDM)** to MERODE by adding:
 
