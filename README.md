@@ -1,4 +1,4 @@
-# Supplementary MaterialTest-Driven Modeling for MERODE 
+# Supplementary Material Test-Driven Modeling for MERODE 
 
 ## 🎥 Tool Demonstration: [Click here for the Demo Video](https://youtu.be/zIIWrEdE9Rw)
 
