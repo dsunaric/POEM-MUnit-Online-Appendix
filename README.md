@@ -1,12 +1,14 @@
-# Test-Driven Modeling for MERODE 
-## Supplementary Material
+# Supplementary MaterialTest-Driven Modeling for MERODE 
+
+## 🎥 Tool Demonstration: [Demo Video](https://youtu.be/zIIWrEdE9Rw)
+Click the link to watch a short demonstration of the tool: [Demo Video](https://youtu.be/zIIWrEdE9Rw)
+
+##COntents
 This repository contains the following elements:
 - This README file containing the concrete DSL syntax and examples. 
 - A .g4 grammar file containing the grammar of the DSL
 - A .pdf file with supplementary material for the paper, including an detailed explaination of the design and implementation.
 
-## 🎥 Tool Demonstration
-Click the link to watch a short demonstration of the tool: [Demo Video](https://youtu.be/zIIWrEdE9Rw)
 
 ---
 
